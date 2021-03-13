@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "center",
+    "hotloaded-dll",
+    "editor"
+]
